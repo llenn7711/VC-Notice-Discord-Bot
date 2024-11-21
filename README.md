@@ -1,6 +1,7 @@
 # VC-Notice-Discord-Bot
 VCの入退室と退出時に入退室時刻と通話時間を通知する
 
+![Image](https://github.com/llenn7711/VC-Notice-Discord-Bot/blob/main/image.png?raw=true)
 ## 仕様
 ### Discord Botアカウントの作成
 - [Discord Developer Portal](https://discord.com/developers/applications)よりBotアカウントを作成します。
